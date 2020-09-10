@@ -9,5 +9,5 @@
  * @author User
  */
 public class ClaseB {
-    
+    private int edad;
 }
