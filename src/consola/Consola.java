@@ -24,6 +24,7 @@ public class Consola {
         sc.close();
         
         System.out.println("Bienvenido usuario"+nombre+"!!");
+        // a ver si cambia
     }
     
 }
