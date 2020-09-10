@@ -19,11 +19,11 @@ public class Consola {
         // TODO code application logic here
         
         Scanner sc=new Scanner(System.in);
-        System.out.print("Ingrese su nombre");
+        System.out.print("Ingrese su nombre ");
         String nombre=sc.nextLine();
         sc.close();
         
-        System.out.println("Bienvenido usuario"+nombre+"!!");
+        System.out.println("Bienvenido usuario "+nombre+" !!");
         
     }
     
