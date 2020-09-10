@@ -8,6 +8,6 @@
  *
  * @author User
  */
-public class ClaseA {
-    private String hola;
+public class ClaseB {
+    private int edad;
 }
